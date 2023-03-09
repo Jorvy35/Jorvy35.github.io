@@ -134,9 +134,8 @@ a .fab {
 ul.job-description li:before{
   content: "✔";
   padding-right: 0.5em;
-  color: #1424d4;
+  color:#1424d4;
 }
-
 footer {
  padding: 1em 1.5em;
  background: #A7B8BF;
